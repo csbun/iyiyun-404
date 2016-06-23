@@ -1,0 +1,31 @@
+{
+  "name": "iyiyun-404",
+  "version": "0.0.1",
+  "description": "从 [益云](http://yibo.iyiyun.com/Home/Index/web404) 抓取失踪儿童信息",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csbun/iyiyun-404.git"
+  },
+  "keywords": [
+    "iyiyun",
+    "404",
+    "not-found"
+  ],
+  "author": "Hans Chan <icsbun@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csbun/iyiyun-404/issues"
+  },
+  "homepage": "https://github.com/csbun/iyiyun-404#readme",
+  "dependencies": {
+    "jsdom": "^9.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^2.13.1",
+    "eslint-config-airbnb-base": "^3.0.1"
+  },
+  "engines":{
+    "node": ">=4.0.0"
+  }
+}
